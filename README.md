@@ -1,6 +1,3 @@
----
-title: A title of the `Readme` page
----
 
 ## Welcome to GitHub Pages
 
